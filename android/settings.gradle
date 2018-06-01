@@ -1,0 +1,3 @@
+rootProject.name = 'ReassuredMobileApp'
+
+include ':app'
